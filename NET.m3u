@@ -93,7 +93,10 @@ http://103.149.130.122:8089/34/index.m3u8
 http://103.149.130.122:8089/30/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/ghBUxYm.png",Colors Bangla HD
 http://103.149.130.122:8089/66/index.m3u8
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/cQdw1st.png",Star Jalsha HD
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/mYjXbH7.png",Zee Bangla HD
+http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/jsYRd39.png",Jalsha Movies HD
 http://103.149.130.122:8089/31/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/SY46rYQ.png",Zee Bangla Cinema HD
